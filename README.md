@@ -34,6 +34,10 @@ The training took more than 2 hours. The final loss is 0.076
 
 Open [`diffusion.ipynb`](diffusion.ipynb) in Google Colab with a GPU runtime and run all cells.
 
+## Download the trained weights
+
+Download the trained weights: [final_diffusion_model.pt](https://github.com/An9658/diffusion-model-from-scratch/releases/download/v1.0/final_diffusion_model.pt)
+
 ## References
 
 -Foster, D. (2023). Generative deep learning: Teaching machines to paint, write, compose, and play (2nd ed.). O’Reilly Media.
